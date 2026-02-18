@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Telethon/Pyrogram sessions
+*.session
+*.session-journal
+
+# Runtime data (state)
+data/star_gifts.json
+
+# Logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
